@@ -1,0 +1,22 @@
+{
+  "name": "dovstone/pair-db",
+  "description": "A MySQL NoSql Key-Value database",
+  "type": "symfony-bundle",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "dovstone",
+      "email": "silveredovoui@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability":"dev",
+  "require": {
+    "php": "^7.1.3"
+  },
+  "autoload": {
+    "psr-4": {
+      "DovStone\\PairDB\\": "src/"
+    }
+  }
+}
