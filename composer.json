@@ -1,5 +1,5 @@
 {
-  "name": "dovstone/pair-db",
+  "name": "dovstone/pairdb",
   "description": "A MySQL NoSql Key-Value database",
   "type": "symfony-bundle",
   "license": "MIT",
